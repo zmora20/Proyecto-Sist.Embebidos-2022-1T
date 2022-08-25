@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Control Almacen</string>
+    <string name="myCredit"> Powered by: </string>
+    <string name="creator"> DFlamis </string>
+
+    <string name="stringStand"> Estadisticas del estante:</string>
+
+    <string name="stringStandContent">  </string>
+
+    <string name="stringConnection"> No Connection :( </string>
+
+    <string name="stringConnectionStart"> Estado: </string>
+
 </resources>

@@ -1,1 +1,0 @@
-# Proyecto-Sist.Embebidos-2022-1T
